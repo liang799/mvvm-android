@@ -1,8 +1,10 @@
-package codingflow.com;
+package codingflow.com.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import codingflow.com.R;
 
 public class MainActivity extends AppCompatActivity {
 
