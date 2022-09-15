@@ -1,4 +1,4 @@
-package codingflow.com;
+package codingflow.com.data.room;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;

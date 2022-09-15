@@ -1,4 +1,4 @@
-package codingflow.com;
+package codingflow.com.data.room;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
